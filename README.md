@@ -11,10 +11,6 @@ Preview Live Site ➡️ [here](https://nsafarova.github.io/image-gallery-react-
 * [Screenshots](#screenshots)
 * [Setup](#setup)
 
-## Screenshots
-
-![Image Gallery](./public/screen-image.png)
-
 ## Features and Technologies
 
 - Dynamic and interactive front-end built with `React`
@@ -23,6 +19,10 @@ Preview Live Site ➡️ [here](https://nsafarova.github.io/image-gallery-react-
 - Real-time image fetching with `Axios`
 - `Responsive design` for optimal viewing on all devices
 - Minimal and user-friendly UI
+
+## Screenshots
+
+![Image Gallery](./public/screen-image.png)
 
 ## Setup
 
